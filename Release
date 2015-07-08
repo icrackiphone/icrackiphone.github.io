@@ -1,15 +1,9 @@
 Origin: customjblogos
-
 Label: customjblogos
-
 Suite: stable
-
 Version: 1.0
-
 Codename: customjblogos
-
 Architectures: iphoneos-arm
-
 Components: main
-
 Description: Weird tweaks i made while i was bored ;P
+MD5Sum:
