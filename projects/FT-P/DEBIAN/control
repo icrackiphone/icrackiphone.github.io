@@ -7,4 +7,3 @@ Depends: winterboard
 Architecture: iphoneos-arm
 Description: This turns the FaceTime icon into the phone icon like the iPhone. Works with iPod. iOS 6 through 8. There is a different theme for whatever version you are on, make sure to enable the correct one. I can make custom boot logos, zeppelin logos, and JellyLock themes. Just email or iMessage me requests at customjblogos@gmail.com.
 Author: customjblogos <customjblogos@gmail.com>
-Section: Themes (SpringBoard)

@@ -1,0 +1,15 @@
+Package: com.myrepospace.customjblogos.FT-P
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: customjblogos <customjblogos@gmail.com>
+Depends: winterboard
+Filename: .//debs/com.myrepospace.customjblogos.ft-p_2.1_iphoneos-arm.deb
+Size: 45926
+MD5sum: 406873ca54534d05f9ca8a7b42fc1e3f
+SHA1: f1b14f0cc172a3d207ed63efd8f5246434605859
+SHA256: 5907a4eaad141f4e3b1f16451fb1cceb415fb6297ab37e307dcff7a7646b2653
+Section: Themes
+Description: This turns the FaceTime icon into the phone icon like the iPhone. Works with iPod. iOS 6 through 8. There is a different theme for whatever version you are on, make sure to enable the correct one. I can make custom boot logos, zeppelin logos, and JellyLock themes. Just email or iMessage me requests at customjblogos@gmail.com.
+Author: customjblogos <customjblogos@gmail.com>
+Name: FT-P
+
