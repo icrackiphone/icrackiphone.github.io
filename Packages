@@ -1,15 +1,239 @@
+Package: com.icrackiphone.DieHappyJellyLock
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: icrackiphone <customjblogos@gmail.com>
+Depends: winterboard
+Filename: .//debs/com.icrackiphone.diehappyjellylock_1.2_iphoneos-arm.deb
+Size: 197388
+MD5sum: ee4259ae92b15867972bb75e5898c4f8
+SHA1: 700bfbbe648cb8c2951ce985335df357e641e0bb
+SHA256: c9a2990aed2cbd7bdffc47f692780623e2a758a77bb77c7a42876ac12bb6e894
+Section: Themes
+Description: This is a die happy theme for JellyLock7. See screenshots below. Just email or iMessage me requests at customjblogos@gmail.com.
+Author: icrackiphone <customjblogos@gmail.com>
+Name: Die Happy JellyLock
+
+Package: com.icrackiphone.FT-P
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: icrackiphone <customjblogos@gmail.com>
+Depends: winterboard
+Filename: .//debs/com.icrackiphone.ft-p_2.1_iphoneos-arm.deb
+Size: 45920
+MD5sum: b391daa5d328229bc5f87ecdc9fc3dc3
+SHA1: 843000806a2ad5d35f6c7575e2140379df2bb25d
+SHA256: a75b4726246ff67de7dba5a54443ffa54cd52709157f0dbca1ec0fa0a8ef5f10
+Section: Themes
+Description: This turns the FaceTime icon into the phone icon like the iPhone. Works with iPod. iOS 6 through 8. There is a different theme for whatever version you are on, make sure to enable the correct one. I can make custom boot logos, zeppelin logos, and JellyLock themes. Just email or iMessage me requests at customjblogos@gmail.com.
+Author: icrackiphone <customjblogos@gmail.com>
+Name: FT-P
+
+Package: com.icrackiphone.FlamingAppleRespringLogo
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: icrackiphone <customjblogos@gmail.com>
+Depends: winterboard
+Filename: .//debs/com.icrackiphone.flamingapplerespringlogo_1.2_iphoneos-arm.deb
+Size: 64424
+MD5sum: b514cf2478bbb599fb1c7d664d3f8971
+SHA1: 41b60ceb29db7bee4cfdfe8af436f0f1a1ddb56a
+SHA256: 2d754ffd15086039acdb38ca9b6cc921e24594e0e8777124cf7e4a6948c28181
+Section: Themes
+Description: This is a flaming apple respring logo. Looks best with the black background. Just email or iMessage me requests at customjblogos@gmail.com.
+Author: icrackiphone <customjblogos@gmail.com>
+Name: Flaming Apple Respring Logo
+
+Package: com.icrackiphone.Health7
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: customjblogos <customjblogos@gmail.com>
+Depends: firmware (>=7.0)
+Filename: .//debs/com.icrackiphone.health7_1.0_iphoneos-arm.deb
+Size: 143234
+MD5sum: c9d9767a76a362769d7e73cde257b3fa
+SHA1: 0c5db0d2d0e1cb052f0b9787cf9f4182a06e68ff
+SHA256: 6522dfb3a9bc79dce637dfa1e4d3354a875d429ee8aef91801fb46e9f190b467
+Section: Applications
+Description: Health7 brings ios 8’s Health app to your iOS 7 powered device. The app does not work because iOS 7 does not have the necessary services but it brings the iOS 8 look to your iOS 7 device so you can trick people into thinking you have iOS 8. If you tap the Health icon on your home screen it will just crash back to the home screen. This crash will not endanger your jailbreak so don’t worry if you tap it too many times. A reboot may be required for the app to show up. Just email or iMessage me requests at customjblogos@gmail.com.
+Author: icrackiphone <customjblogos@gmail.com>
+Name: Health7
+
+Package: com.icrackiphone.MetallicaJellylock7
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: customjblogos <customjblogos@gmail.com>
+Depends: winterboard
+Filename: .//debs/com.icrackiphone.metallicajellylock7_1.5_iphoneos-arm.deb
+Size: 724400
+MD5sum: 6894c4dae41a8f33ea747b4f9342320b
+SHA1: 688711ed453e253be88f49772481e125b39d4d22
+SHA256: 328beb0d67f2bf2223d6504da40d14f990d874697aad55541e0d8ae70897db93
+Section: Themes
+Description: This is a Metallica theme for the LS tweak Jellylock7. Includes black, blue, green, orange, purple, red, white, pink, and yellow themes. Just email or iMessage me requests at customjblogos@gmail.com.
+Author: icrackiphone <customjblogos@gmail.com>
+Name: Metallica Jellylock7
+
+Package: com.icrackiphone.MetallicaKeypad
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: customjblogos <customjblogos@gmail.com>
+Depends: winterboard
+Filename: .//debs/com.icrackiphone.metallicakeypad_1.1_iphoneos-arm.deb
+Size: 19822
+MD5sum: 89315928b51ed37a4b92ced0f100d0d3
+SHA1: 950bb7cd46bc8bb79b03632f2590358971c083e4
+SHA256: ff5fea54c620630e0bec300166b4aa763fa46c83514c8cfec5b4d4fe80ff1e90
+Section: Themes
+Description: This changes the passcode screen buttons into the cool little Metallica symbol. Just email or iMessage me requests at customjblogos@gmail.com.
+Author: icrackiphone <customjblogos@gmail.com>
+Name: Metallica Keypad
+
+Package: com.icrackiphone.MetallicaLockGlyph
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: icrackiphone <customjblogos@gmail.com>
+Filename: .//debs/com.icrackiphone.metallicalockglyph_1.0_iphoneos-arm.deb
+Size: 242066
+MD5sum: ddf954bfc4b19d347ca7e891a2559149
+SHA1: 82d76d57b08ecfd7b0acce193a82f1675ed14b50
+SHA256: 6ec9c8f34bae534ed3241ca613bc0f6d264a9bcfd5d2c33e0858c72f698ece0a
+Section: Themes
+Description: This is a metallica logo theme for lockglyph, supports all devices with lockglyph and has most average colors. Just email or iMessage me requests at customjblogos@gmail.com.
+Author: icrackiphone <customjblogos@gmail.com>
+Name: Metallica LockGlyph
+
+Package: com.icrackiphone.MetallicaRespringLogos
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: icrackiphone <customjblogos@gmail.com>
+Depends: winterboard
+Filename: .//debs/com.icrackiphone.metallicarespringlogos_1.3_iphoneos-arm.deb
+Size: 190430
+MD5sum: 0b0e20cf1459c8a5e8f73510fc789288
+SHA1: 13eb825ec87022a398a0a4adbfa335ec80abd0aa
+SHA256: 1a714127779a37e8095d6c5ab5eb705181c6d75e2d32bc56b616eec415c50d8c
+Section: Themes
+Description: Metallica Logos for respringing. includes black, blue, green, orange, pink, purple, red, white, and yellow logos. Just email or iMessage me requests at customjblogos@gmail.com.
+Author: icrackiphone <customjblogos@gmail.com>
+Name: Metallica Respring Logos
+
+Package: com.icrackiphone.MetallicaThemeforBetterPowerDown
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: icrackiphone <customjblogos@gmail.com>
+Depends: winterboard
+Filename: .//debs/com.icrackiphone.metallicathemeforbetterpowerdown_1.2_iphoneos-arm.deb
+Size: 816
+MD5sum: f83441b6dd2663342af3a6af1fc167dc
+SHA1: 7b81bfb2bc628a8b50ad218fd26b87bd9bdff237
+SHA256: 7298732a4a64b773983a924312da6a6b08713b8c3d72a4edc7f04affe1fbb78f
+Section: Themes
+Description: This is a Metallica theme for the tweak Better Power Down. Just email or iMessage me requests at customjblogos@gmail.com.
+Author: icrackiphone <customjblogos@gmail.com>
+Name: Metallica Theme for Better Power Down
+
+Package: com.icrackiphone.SkrillexSlider
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: customjblogos <customjblogos@gmail.com>
+Depends: mobilesubstrate
+Filename: .//debs/com.icrackiphone.skrillexslider_1.2_iphoneos-arm.deb
+Size: 15414
+MD5sum: 9437b21f2f0e0ef4cf25f33ff13c40cd
+SHA1: 2d1ab5b546c98562736ce1ce4553b09162b7a143
+SHA256: 08431f244f20339c5b8c116f3adc5553599fb3f90c6aa8b21d65b4c0ac965813
+Section: Themes
+Description: This is a Skrillex slider for 7.1.x ONLY! Just email or iMessage me requests at customjblogos@gmail.com.
+Author: icrackiphone <customjblogos@gmail.com>
+Name: Skrillex Slider
+
+Package: com.icrackiphone.SkrillexZeppelin
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: icrackiphone <customjblogos@gmail.com>
+Depends: mobilesubstrate
+Filename: .//debs/com.icrackiphone.skrillexzeppelin_1.4_iphoneos-arm.deb
+Size: 20368
+MD5sum: 2a3e147083a381cd5046516f1341f0e4
+SHA1: 4123a8586ac9590843866bf1f33b309215528602
+SHA256: 20f3ce0bd2949d447850b6a6e5732535cb6309bfa191703bee487285230a4eba
+Section: Addons (Zeppelin)
+Description: This is a Skrillex Zeppelin logo I made. Just email or iMessage me requests at customjblogos@gmail.com.
+Author: icrackiphone <customjblogos@gmail.com>
+Name: Skrillex Zeppelin
+
+Package: com.icrackiphone.Tips7
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: icrackiphone <customjblogos@gmail.com>
+Depends: firmware (>= 7.0)
+Filename: .//debs/com.icrackiphone.tips7_1.0_iphoneos-arm.deb
+Size: 159072
+MD5sum: 5ae1e2bce482dbb65d2738d1f2c92372
+SHA1: 371987b2bdabab025494d6613bf0245e422442e8
+SHA256: ed8c940ae19602fe25cd8a5172459e91a7e45b19fe34472019d7ba3da7ca4ce8
+Section: Applications
+Description: Tips7 brings iOS 8’s Tips app to the home screen of your iOS 7 + device. The app does not open because I cant connect it to Apple’s server. This app is only for the look. A reboot may be required for the application to show up on your home screen. Just email or iMessage me requests at customjblogos@gmail.com.
+Author: icrackiphone <customjblogos@gmail.com>
+Name: Tips7
+
+Package: com.icrackiphone.connecttoitunesbootlogo
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: icrackiphone <customjblogos@gmail.com>
+Depends: mobilesubstrate
+Filename: .//debs/com.icrackiphone.connecttoitunesbootlogo_2.1_iphoneos-arm.deb
+Size: 6566964
+MD5sum: d950a5fe9b0460c4bddd6b626f859f49
+SHA1: 2710a0274e5145dca7032b9aa15beccabe63b137
+SHA256: 01e96ba9437294d52e8f8d3914e529457598125669ce6b9050522c08ad63484a
+Section: Addons (BootLogo)
+Description: A connect to iTunes boot logo for old (ios 6 style) i4 and i5 sizes, and new, (ios 7+ style) i4 and i5 sizes. Just email or iMessage me requests at customjblogos@gmail.com .
+Author: icrackiphone <customjblogos@gmail.com>
+Name: Connect to iTunes Bootlogo
+
 Package: com.icrackiphone.iOS7SignalDots
 Version: 5.4
 Architecture: iphoneos-arm
 Maintainer: icrackiphone <customjblogos@gmail.com>
 Depends: mobilesubstrate
 Filename: .//debs/com.icrackiphone.ios7signaldots_5.4_iphoneos-arm.deb
-Size: 345468
-MD5sum: fea97c4973ef829d4d7509ddd629ae99
-SHA1: 0fdf4928f69184641b8f8fb31688d5c52a7dd416
-SHA256: 79962cd0a3a85bb9ca4480123d7c86711cce29c07ed0a8c6e74dbb7415cba44c
+Size: 345472
+MD5sum: c1878cb05f46c3633fcb7ef29b376629
+SHA1: df9363a0753b58b50019e3746ea35d5c13e1c211
+SHA256: 4a327de6796686df6042e58ef142a185389922dda68a9dbdcf4673620e4ff3f5
 Section: Addons (Zeppelin)
 Description: iOS 7 Signal Dots for the iPod Touch 5th Gen or iPhone without service running iOS7, also looks good on iPod Touch 4th Gen or older iPhone without service with the iOS 7 theme. Also compatible with iPad. Just email or iMessage me requests at customjblogos@gmail.com.
 Author: icrackiphone <customjblogos@gmail.com>
 Name: iOS 7 Signal Dots
+
+Package: com.icrackiphone.iOS8PassbookTheme
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: icrackiphone <customjblogos@gmail.com>
+Depends: winterboard
+Filename: .//debs/com.icrackiphone.ios8passbooktheme_1.0_iphoneos-arm.deb
+Size: 14204
+MD5sum: f483902934fc8cfac82a9cdceb0132bd
+SHA1: ef94f1c86f855504b0fad4d1cf344889e7a14cef
+SHA256: 8fada49af9480b90a69d135e3a50c95b63521c31d0f229d1f32341559f1bc584
+Section: Themes
+Description: In ios 8, the passbook icon got a new red stipe added to it. This simple theme gives you this new icon on your 7.x.x device. See screenshots. There are 2 screenshots, a before and an after. Just email or iMessage me requests at customjblogos@gmail.com.
+Author: icrackiphone <customjblogos@gmail.com>
+Name: iOS 8 Passbook Theme
+
+Package: com.icrackiphone.jellylockfix
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: icrackiphone <customjblogos@gmail.com>
+Depends: mobilesubstrate, firmware (>= 7.1)
+Filename: .//debs/com.icrackiphone.jellylockfix_2.0_iphoneos-arm.deb
+Size: 18390
+MD5sum: 8118008e6ac731cebc7bad421428aa76
+SHA1: 3fd82e6b21da21f937a81f134e049d8dfce37244
+SHA256: dbad69acef0ffc65cac0041ee1d75508f8c6217dd04cc4bf8f5c68f4d458505e
+Section: Tweaks
+Description: Fixes JellyLock moving on 7.1.x. Just email or iMessage me requests at customjblogos@gmail.com.
+Author: icrackiphone <customjblogos2gmail.com>
+Name: JellyLock fix for 7.1.x
 

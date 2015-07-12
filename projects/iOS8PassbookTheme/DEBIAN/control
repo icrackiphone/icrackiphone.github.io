@@ -1,0 +1,13 @@
+Package: com.icrackiphone.iOS8PassbookTheme
+Name: iOS 8 Passbook Theme
+Version: 1.0
+Section: Themes
+Maintainer: icrackiphone <customjblogos@gmail.com>
+Depends: winterboard
+Architecture: iphoneos-arm
+Description: In ios 8, the passbook icon got a new red stipe added to it. This simple theme gives you this new icon on your 7.x.x device. See screenshots. There are 2 screenshots, a before and an after. Just email or iMessage me requests at customjblogos@gmail.com.
+Author: icrackiphone <customjblogos@gmail.com> 
+
+
+
+
