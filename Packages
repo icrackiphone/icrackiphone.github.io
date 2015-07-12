@@ -1,0 +1,15 @@
+Package: com.icrackiphone.iOS7SignalDots
+Version: 5.4
+Architecture: iphoneos-arm
+Maintainer: icrackiphone <customjblogos@gmail.com>
+Depends: mobilesubstrate
+Filename: .//debs/com.icrackiphone.ios7signaldots_5.4_iphoneos-arm.deb
+Size: 345468
+MD5sum: fea97c4973ef829d4d7509ddd629ae99
+SHA1: 0fdf4928f69184641b8f8fb31688d5c52a7dd416
+SHA256: 79962cd0a3a85bb9ca4480123d7c86711cce29c07ed0a8c6e74dbb7415cba44c
+Section: Addons (Zeppelin)
+Description: iOS 7 Signal Dots for the iPod Touch 5th Gen or iPhone without service running iOS7, also looks good on iPod Touch 4th Gen or older iPhone without service with the iOS 7 theme. Also compatible with iPad. Just email or iMessage me requests at customjblogos@gmail.com.
+Author: icrackiphone <customjblogos@gmail.com>
+Name: iOS 7 Signal Dots
+
