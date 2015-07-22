@@ -1,0 +1,13 @@
+Package: com.icrackiphone.Health7
+Name: Health7
+Version: 1.0
+Section: Applications
+Maintainer: customjblogos <customjblogos@gmail.com>
+Depends: firmware (>=7.0)
+Architecture: iphoneos-arm
+Description: Health7 brings ios 8’s Health app to your iOS 7 powered device. The app does not work because iOS 7 does not have the necessary services but it brings the iOS 8 look to your iOS 7 device so you can trick people into thinking you have iOS 8. If you tap the Health icon on your home screen it will just crash back to the home screen. This crash will not endanger your jailbreak so don’t worry if you tap it too many times. A reboot may be required for the app to show up. Just email or iMessage me requests at customjblogos@gmail.com.
+Author: icrackiphone <customjblogos@gmail.com> 
+
+
+
+

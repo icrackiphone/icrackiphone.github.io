@@ -1,0 +1,10 @@
+Package: com.icrackiphone.connecttoitunesbootlogo
+Name: Connect to iTunes Bootlogo
+Version: 2.1
+Section: Addons (BootLogo)
+Maintainer: icrackiphone <customjblogos@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: A connect to iTunes boot logo for old (ios 6 style) i4 and i5 sizes, and new, (ios 7+ style) i4 and i5 sizes. Just email or iMessage me requests at customjblogos@gmail.com .
+Author: icrackiphone <customjblogos@gmail.com>
+

@@ -1,0 +1,13 @@
+Package: com.icrackiphone.Tips7
+Name: Tips7
+Version: 1.0
+Section: Applications
+Maintainer: icrackiphone <customjblogos@gmail.com>
+Depends: firmware (>= 7.0)
+Architecture: iphoneos-arm
+Description: Tips7 brings iOS 8’s Tips app to the home screen of your iOS 7 + device. The app does not open because I cant connect it to Apple’s server. This app is only for the look. A reboot may be required for the application to show up on your home screen. Just email or iMessage me requests at customjblogos@gmail.com.
+Author: icrackiphone <customjblogos@gmail.com> 
+
+
+
+
