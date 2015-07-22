@@ -1,8 +1,0 @@
-#!/bin/bash
-cd /Applications/pangu.app/
-chown -R mobile:mobile *
-chown -R root:wheel pg pg_
-chmod -R 0755 pg pg_
-chmod -R 6755 pg_
-exit 0
-

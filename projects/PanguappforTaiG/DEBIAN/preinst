@@ -1,3 +1,0 @@
-#!/bin/bash
-rm -rf  /Applications/pangu.app/
-exit 0

@@ -1,9 +1,0 @@
-Package: com.icrackiphone.SkrillexZeppelin
-Name: Skrillex Zeppelin
-Version: 1.4
-Section: Addons (Zeppelin)
-Maintainer: icrackiphone <customjblogos@gmail.com>
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Description: This is a Skrillex Zeppelin logo I made. Just email or iMessage me requests at customjblogos@gmail.com.
-Author: icrackiphone <customjblogos@gmail.com> 
